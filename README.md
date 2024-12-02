@@ -1,7 +1,8 @@
 # Packman Animation
 
 Pacman Animation is an animated HTML page with CSS styles.
-![Alt Text](https://media.giphy.com/media/GNY2f4TY4n80YsJUUW/giphy.gif)
+![Alt Text](https://media.giphy.com/media/GNY2f4TY4n80YsJUUW/giphy.gif
+)
 
 ## Description
 
